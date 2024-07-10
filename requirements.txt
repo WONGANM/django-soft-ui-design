@@ -6,3 +6,4 @@ django-theme-soft-design==1.0.8
 
 # psycopg2-binary
 # mysqlclient
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
